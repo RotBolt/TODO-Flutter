@@ -1,6 +1,13 @@
 # todo_app
 
-A new Flutter project.
+A Simple todo app basic CRUD operations
+
+
+### Home Page
+<img src="https://user-images.githubusercontent.com/24780524/52324940-34c66400-2a09-11e9-91b1-433c3718bdb8.png" width = "240">
+
+### Add New Todo
+<img src= "https://user-images.githubusercontent.com/24780524/52325022-79ea9600-2a09-11e9-90d3-fcf61d7e1aeb.png" width = "240">
 
 ## Getting Started
 
